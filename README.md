@@ -1,2 +1,2 @@
 # movieFinder-repo
-Find information for movie that can you imagine.
+Find information for all movies you can imagine.
